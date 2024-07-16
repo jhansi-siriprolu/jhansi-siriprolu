@@ -15,7 +15,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: https://www.linkedin.com/in/jhansi-siri/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a mother who loves coding while my little one naps!
-https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
 
 
 ## Languages and Tools:
