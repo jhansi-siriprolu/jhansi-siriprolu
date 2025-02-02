@@ -5,16 +5,16 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Apache Spark with Hadoop cluster and Hive as metastore.
-- 🌱 I’m currently learning to build Retrieval Augumented Systems. 
-- 👯 I’m looking to collaborate on Machine Learning projects and Kaggle.
-- 🤔 I’m looking for help with optimizing Spark job performance.
-- 🤔 I’m looking for help with building NLP models for text classification.
-- 🤔 I’m looking for help with fine-tuning pre-trained language models like BERT and GPT.
-- 💬 Ask me about  Natural Language Processing, Apache Spark, and Deep Learning.
-- 📫 How to reach me: https://www.linkedin.com/in/jhansi-siri/
+- 🔭 Currently working with Apache Spark on a Hadoop cluster, using Hive as a metastore.
+- 🌱 Learning to develop Retrieval-Augmented Generation (RAG) systems.
+- 👯 Open to collaborating on Machine Learning projects and Kaggle competitions.
+- 🤔 Seeking guidance on optimizing Spark job performance.
+- 🤔 Looking for help with building NLP models for text classification.
+- 🤔 Interested in fine-tuning pre-trained language models like BERT and GPT.
+- 💬 Happy to discuss Natural Language Processing, Apache Spark, and Deep Learning.
+- 📫 Connect with me on LinkedIn: Jhansi Siri
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a mother who loves coding while my little one naps!
+- ⚡ Fun fact: I love turning data puzzles into smart AI solutions! 🚀
 
 
 ## Languages and Tools:
